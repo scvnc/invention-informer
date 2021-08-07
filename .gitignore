@@ -1,0 +1,4 @@
+.envrc
+out
+config/*
+!config/readme.md
